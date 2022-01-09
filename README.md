@@ -11,5 +11,5 @@ There you will find live values.
 For all techies: This is some Blazor Client/Server App
 
 # Discovery
-If you have a discovery smart meter you may find this PHP-Code useful:
+If you have a discovery smart meter you may find this minimal client written in PHP useful:
 https://github.com/Geooorg/discovergy-client
