@@ -9,3 +9,7 @@ This call is only available within your network.
 There you will find live values.
 
 For all techies: This is some Blazor Client/Server App
+
+# Discovery
+If you have a discovery smart meter you may find this PHP-Code useful:
+https://github.com/Geooorg/discovergy-client
