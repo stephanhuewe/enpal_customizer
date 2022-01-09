@@ -7,3 +7,5 @@ https://setup.enpal.de/
 
 This call is only available within your network.
 There you will find live values.
+
+For all techies: This is some Blazor Client/Server App
